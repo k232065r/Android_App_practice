@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">交通費精算</string>
+    <string name="month_title">月別一覧</string>
+    <string name="date_title">件別明細</string>
+    <string name="edit_title">交通費編集</string>
+
+    <string name="menu_month">トップページ（月別一覧）</string>
+    <string name="menu_date">件別明細</string>
+    <string name="menu_edit">交通費 新規追加</string>
+    <string name="menu_save">保存</string>
+
+    <string name="edit_date">日付：</string>
+    <string name="edit_stationType">機関：</string>
+    <string name="edit_startStation">区間：</string>
+    <string name="edit_endStation">区間：</string>
+    <string name="edit_cost">金額：</string>
+    <string name="edit_type">区分：</string>
+    <string name="edit_reason">理由：</string>
+
+    <string name="sample_date">2019/05/01</string>
+    <string name="sample_station_type">××鉄道</string>
+    <string name="sample_station">××駅</string>
+    <string name="sample_cost">100,000</string>
+    <string name="sample_type">通勤</string>
+    <string name="sample_reason">定期購入のため</string>
+</resources>
